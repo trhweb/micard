@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget{
                 radius: 50.0,
                 backgroundImage: AssetImage('images/rose.jpg'),
 
-              ),
+              ),//circle my image
               Text(
                 'thirihlaing',style: TextStyle(
                 fontFamily: 'Pacifico',
